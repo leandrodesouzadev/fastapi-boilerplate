@@ -1,0 +1,10 @@
+
+
+# environ
+__pypackages__
+.pdm.toml
+.env
+
+# Testing
+.tox
+__pycache__
